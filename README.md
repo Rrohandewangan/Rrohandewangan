@@ -405,8 +405,6 @@ jobs:
 <!--                        🌊 FOOTER                             -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:4C1D95,50:6D28D9,100:8B5CF6&section=footer&fontSize=0" width="100%" />
-
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=2000&color=A78BFA&center=true&vCenter=true&width=500&lines=⭐+Star+my+repos+if+you+find+them+useful!;🤝+Let's+build+something+amazing+together!;💜+Thanks+for+visiting+my+profile!" alt="Footer" />
@@ -417,3 +415,7 @@ jobs:
   <img src="https://img.shields.io/badge/Powered%20by-Coffee%20☕-6D28D9?style=for-the-badge&labelColor=0d1117" />
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4C1D95,50:6D28D9,100:8B5CF6&section=footer" width="100%" />
