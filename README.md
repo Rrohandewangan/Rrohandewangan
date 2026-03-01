@@ -9,6 +9,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-dewangan-a43627270/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rrohandewangan.github.io/Portfolio/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ROHANDEWANGAN/)
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dewanganrohan126@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rrohandewangan)
   ![Profile Views](https://komarev.com/ghpvc/?username=Rrohandewangan&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge)
@@ -53,6 +54,7 @@ const rohan = {
 
   currentlyWorking: "Building responsive web apps ✨",
   challengeFor2026: "Contribute to Open Source 🌍",
+  leetcode: "leetcode.com/u/ROHANDEWANGAN 🧠",
   motto: "Code • Create • Conquer 🏆"
 };
 ```
@@ -121,22 +123,6 @@ const rohan = {
 
 <br/>
 
-<!-- Compact skill badges -->
-<div align="center">
-
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -160,43 +146,39 @@ const rohan = {
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    🚀 FEATURED PROJECTS                       -->
+<!--                    🧠 LEETCODE STATS                          -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" /> &nbsp;Featured Projects </h2>
+<h2> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="28" /> &nbsp;LeetCode Stats </h2>
 
 <div align="center">
 
-<!-- ─────────────── PROJECT 1: Calculator ─────────────── -->
-<a href="https://github.com/Rrohandewangan/Calculator">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rrohandewangan&repo=Calculator&theme=radical&bg_color=0d1117&border_color=6D28D9&icon_color=A78BFA&title_color=A78BFA&text_color=E9D5FF&show_owner=true" width="49%" />
-</a>
-<!-- ─────────────── PROJECT 2: Rock Paper Scissors ─────────────── -->
-<a href="https://github.com/Rrohandewangan/Rock-Paper-Scissors-Game">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rrohandewangan&repo=Rock-Paper-Scissors-Game&theme=radical&bg_color=0d1117&border_color=6D28D9&icon_color=A78BFA&title_color=A78BFA&text_color=E9D5FF&show_owner=true" width="49%" />
-</a>
+  <a href="https://leetcode.com/u/ROHANDEWANGAN/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/ROHANDEWANGAN?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=20" alt="LeetCode Stats" width="60%" />
+  </a>
 
-<br/>
+  <br/><br/>
 
-<!-- ─────────────── PROJECT 3: Tic Tac Toe ─────────────── -->
-<a href="https://github.com/Rrohandewangan/Tic-Tac-Toe-Game">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rrohandewangan&repo=Tic-Tac-Toe-Game&theme=radical&bg_color=0d1117&border_color=6D28D9&icon_color=A78BFA&title_color=A78BFA&text_color=E9D5FF&show_owner=true" width="49%" />
-</a>
-<!-- ─────────────── PROJECT 4: DSA Solutions ─────────────── -->
-<a href="https://github.com/Rrohandewangan/DSA-Solutions">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rrohandewangan&repo=DSA-Solutions&theme=radical&bg_color=0d1117&border_color=6D28D9&icon_color=A78BFA&title_color=A78BFA&text_color=E9D5FF&show_owner=true" width="49%" />
-</a>
-
-<br/>
-
-<!-- ─────────────── PROJECT 5: Portfolio ─────────────── -->
-<a href="https://github.com/Rrohandewangan/Portfolio">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rrohandewangan&repo=Portfolio&theme=radical&bg_color=0d1117&border_color=6D28D9&icon_color=A78BFA&title_color=A78BFA&text_color=E9D5FF&show_owner=true" width="49%" />
-</a>
+  <!-- LeetCode Badges -->
+  <a href="https://leetcode.com/u/ROHANDEWANGAN/">
+    <img src="https://img.shields.io/badge/LeetCode-ROHANDEWANGAN-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-DSA%20%26%20Problem%20Solving-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-Java%20☕-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 </div>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    🚀 FEATURED PROJECTS                       -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" /> &nbsp;Featured Projects </h2>
 
 ### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28" /> Live Demos — Click to Try!
 
@@ -255,6 +237,18 @@ const rohan = {
 <a href="https://rrohandewangan.github.io/Portfolio/"><img src="https://img.shields.io/badge/🚀_LIVE_DEMO-8B5CF6?style=for-the-badge" /></a>
 <a href="https://github.com/Rrohandewangan/Portfolio"><img src="https://img.shields.io/badge/📂_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
+<td align="center" width="33%">
+<h3>🌦️ Weather Dashboard</h3>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+<a href="https://rrohandewangan.github.io/Weather-Dashboard/"><img src="https://img.shields.io/badge/🚀_LIVE_DEMO-8B5CF6?style=for-the-badge" /></a>
+<a href="https://github.com/Rrohandewangan/Weather-Dashboard"><img src="https://img.shields.io/badge/📂_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</td>
+</tr>
+<tr>
 <td align="center" width="33%">
 <h3>💜 More Coming...</h3>
 <p>
@@ -365,39 +359,6 @@ jobs:
 3. **Actions** → **Generate Snake** → **Run workflow**
 
 </details>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    🤝 CONNECT WITH ME                         -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<h2> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> &nbsp;Let's Connect & Collaborate </h2>
-
-<div align="center">
-
-<p><b>💬 Open for collaborations, open source contributions, and tech conversations!</b></p>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/rohan-dewangan-a43627270/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
-</a>&nbsp;&nbsp;
-<a href="mailto:dewanganrohan126@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35"/>
-</a>&nbsp;&nbsp;
-<a href="https://rrohandewangan.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%238B5CF6.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" height="35"/>
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Rrohandewangan" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35"/>
-</a>
-
-</div>
 
 <br/>
 
