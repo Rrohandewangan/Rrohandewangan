@@ -2,24 +2,24 @@
 <!--                        🔥 ROHAN DEWANGAN 🔥                           -->
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:8B5CF6,50:6D28D9,100:4C1D95&text=ROHAN%20DEWANGAN&fontSize=70&fontColor=FFFFFF&fontAlignY=40&desc=Error%20404%3A%20Sleep%20Not%20Found%20%20|%20%20Full-Stack%20Loading...%20████░░░░%2050%25&descSize=18&descAlignY=62&descColor=E9D5FF&animation=twinkling&stroke=A78BFA&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:00D2FF,50:7B2FFF,100:FF0080&text=ROHAN%20DEWANGAN&fontSize=70&fontColor=FFFFFF&fontAlignY=40&desc=Error%20404%3A%20Sleep%20Not%20Found%20%20|%20%20Full-Stack%20Loading...%20████░░░░%2050%25&descSize=18&descAlignY=62&descColor=00FFE0&animation=twinkling&stroke=FF0080&strokeWidth=3" width="100%" />
 
 <!-- Social Badges -->
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-dewangan-a43627270/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rrohandewangan.github.io/Portfolio/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF0080?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rrohandewangan.github.io/Portfolio/)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ROHANDEWANGAN/)
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dewanganrohan126@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rrohandewangan)
-  ![Profile Views](https://komarev.com/ghpvc/?username=Rrohandewangan&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Rrohandewangan&label=PROFILE+VIEWS&color=00D2FF&style=for-the-badge)
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3C%2F%3E+Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;%F0%9F%8E%AF+Building+Beautiful+Web+Experiences;%E2%98%95+Solving+DSA+Problems+One+Commit+at+a+Time;%F0%9F%92%BB+Turning+Coffee+into+Code+Since+Day+1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00FFE0&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3C%2F%3E+Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;%F0%9F%8E%AF+Building+Beautiful+Web+Experiences;%E2%98%95+Solving+DSA+Problems+One+Commit+at+a+Time;%F0%9F%92%BB+Turning+Coffee+into+Code+Since+Day+1" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -368,15 +368,15 @@ jobs:
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=2000&color=A78BFA&center=true&vCenter=true&width=500&lines=%E2%AD%90+Star+my+repos+if+you+find+them+useful!;%F0%9F%A4%9D+Let%27s+build+something+amazing+together!;%F0%9F%92%9C+Thanks+for+visiting+my+profile!" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=2000&color=00FFE0&center=true&vCenter=true&width=500&lines=%E2%AD%90+Star+my+repos+if+you+find+them+useful!;%F0%9F%A4%9D+Let%27s+build+something+amazing+together!;%F0%9F%92%9C+Thanks+for+visiting+my+profile!" alt="Footer" />
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-8B5CF6?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Powered%20by-Coffee%20%E2%98%95-6D28D9?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-FF0080?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Powered%20by-Coffee%20%E2%98%95-00D2FF?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4C1D95,50:6D28D9,100:8B5CF6&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF0080,50:7B2FFF,100:00D2FF&section=footer" width="100%" />
