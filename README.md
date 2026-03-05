@@ -2,7 +2,7 @@
 <!--                        🔥 ROHAN DEWANGAN 🔥                           -->
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:8B5CF6,50:6D28D9,100:4C1D95&text=ROHAN%20DEWANGAN&fontSize=70&fontColor=FFFFFF&fontAlignY=40&desc=🚀%20Frontend%20Developer%20%20|%20%20☕%20DSA%20in%20Java%20%20|%20%20🎨%20UI%20Craftsman&descSize=18&descAlignY=62&descColor=E9D5FF&animation=twinkling&stroke=A78BFA&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:8B5CF6,50:6D28D9,100:4C1D95&text=ROHAN%20DEWANGAN&fontSize=70&fontColor=FFFFFF&fontAlignY=40&desc=Error%20404%3A%20Sleep%20Not%20Found%20%20|%20%20Full-Stack%20Loading...%20████░░░░%2050%25&descSize=18&descAlignY=62&descColor=E9D5FF&animation=twinkling&stroke=A78BFA&strokeWidth=2" width="100%" />
 
 <!-- Social Badges -->
 <div align="center">
@@ -41,7 +41,7 @@
 ```javascript
 const rohan = {
   name: "Rohan Dewangan",
-  title: "Frontend Developer & DSA Enthusiast",
+  title: "Error 404: Sleep Not Found | Full-Stack Loading... ████░░░░ 50%",
   location: "India 🇮🇳",
   education: "🎓 Computer Science Student",
   
